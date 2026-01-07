@@ -39,3 +39,30 @@ Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pas
    ```bash
    git clone https://github.com/[username-kamu]/simple-notes.git
    cd simple-notes
+   
+# Struktur Project Singkat
+
+```text
+simple-notes/
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/example/simplenotes/
+│   │   │   ├── SplashActivity.java
+│   │   │   ├── LoadingActivity.java
+│   │   │   ├── MainActivity.java
+│   │   │   └── (adapter/model jika pakai RecyclerView)
+│   │   └── res/
+│   │       ├── layout/
+│   │       │   ├── activity_splash.xml
+│   │       │   ├── activity_loading.xml
+│   │       │   └── activity_main.xml
+│   │       ├── drawable/
+│   │       │   ├── circle_blue.xml
+│   │       │   ├── progress_oval_filled.xml
+│   │       │   └── logo.png (atau ic_launcher)
+│   │       └── values/
+│   │           └── colors.xml
+│   └── AndroidManifest.xml
+├── screenshots/               # folder untuk gambar demo
+└── README.md
+```
