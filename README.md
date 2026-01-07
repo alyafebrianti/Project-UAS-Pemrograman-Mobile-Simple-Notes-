@@ -11,13 +11,13 @@ Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pas
 
 ## Fitur Utama
 
-- **Splash Screen Kawaii**  
+- **Splash Screen**  
   Tampilan pembuka berwarna pink pastel dengan gambar buku catatan lucu + pensil + teks "Hallo Welcome To Simple Notes" yang menggemaskan
 
-- **Loading Screen Imut**  
+- **Loading Screen**  
   Animasi loading lurus (oval) dengan karakter buku catatan kawaii yang sedang menulis + teks "Loading..." — durasi singkat tapi bikin gemes
 
-- **Halaman Utama Cantik**  
+- **Halaman Utama**  
   - Toolbar teal pastel dengan judul "Simple Notes" (hitam bold)
   - Kartu catatan berlatar pink pastel dengan judul & isi catatan
   - Timestamp di setiap catatan (contoh: 07 Jan 2026 • 16:04)
@@ -29,9 +29,9 @@ Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pas
 
 ## Preview Aplikasi
 
-| Splash Screen (Kawaii)          | Loading Screen (Imut)           | Halaman Utama (Pink Pastel)     |
-|---------------------------------|---------------------------------|---------------------------------|
-| ![Splash](splashh.jpeg) | ![Loading](loading.jpeg) | ![Main](halamanutama.jpeg) |
+| Lokasi          | Splash Screen         | Loading Screen          | Halaman Utama      |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| ![Splash](lokasi.jpeg) | ![Splash](splashh.jpeg) | ![Loading](loading.jpeg) | ![Main](halamanutama.jpeg) |
 
 ## Cara Instal & Jalankan
 
