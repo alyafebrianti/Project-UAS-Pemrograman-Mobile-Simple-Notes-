@@ -3,9 +3,9 @@
 Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pastel** yang super lembut dan menyenangkan. Cocok untuk mencatat ide, reminder harian, atau curhatan random dengan tampilan yang bikin senyum 😊
 
 <p align="center">
-  <img src="screenshots/splash.png" width="200" alt="Splash Screen" />
-  <img src="screenshots/loading.png" width="200" alt="Loading Screen" />
-  <img src="screenshots/main.png" width="200" alt="Halaman Utama" />
+  <img src="splashh.jpeg" width="200" alt="Splash Screen" />
+  <img src="loading.jpeg" width="200" alt="Loading Screen" />
+  <img src="halamanutama.jpeg" width="200" alt="Halaman Utama" />
 </p>
 
 ## Fitur Utama
