@@ -3,6 +3,7 @@
 Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pastel** yang super lembut dan menyenangkan. Cocok untuk mencatat ide, reminder harian, atau curhatan random dengan tampilan yang bikin senyum 😊
 
 <p align="center">
+  <img src="lokasi.jpeg" width="200" alt="Izin lokasi" />
   <img src="splashh.jpeg" width="200" alt="Splash Screen" />
   <img src="loading.jpeg" width="200" alt="Loading Screen" />
   <img src="halamanutama.jpeg" width="200" alt="Halaman Utama" />
@@ -30,9 +31,7 @@ Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pas
 
 | Splash Screen (Kawaii)          | Loading Screen (Imut)           | Halaman Utama (Pink Pastel)     |
 |---------------------------------|---------------------------------|---------------------------------|
-| ![Splash](screenshots/splash.png) | ![Loading](screenshots/loading.png) | ![Main](screenshots/main.png) |
-
-> **Catatan**: Upload 3 gambar screenshot di atas ke folder `screenshots/` di repository ini, lalu ganti path gambar sesuai nama file asli (contoh: screenshots/splash.png).
+| ![Splash](splashh.jpeg) | ![Loading](loading.jpeg) | ![Main](halamanutama.jpeg) |
 
 ## Cara Instal & Jalankan
 
