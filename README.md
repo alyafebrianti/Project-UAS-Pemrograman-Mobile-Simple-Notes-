@@ -1,6 +1,6 @@
 # Simple Notes
 
-Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pastel** yang super lembut dan menyenangkan. Cocok untuk mencatat ide, reminder harian, atau curhatan random dengan tampilan yang bikin senyum 😊
+Aplikasi catatan sederhana dengan desain **lucu aesthetic** bertema **pink pastel** yang super lembut dan menyenangkan. Cocok untuk mencatat ide, reminder harian, atau curhatan random dengan tampilan yang bikin hari menjadi lebih berwarna😊
 
 <p align="center">
   <img src="lokasi.jpeg" width="200" alt="Izin lokasi" />
@@ -15,7 +15,7 @@ Aplikasi catatan sederhana dengan desain **kawaii aesthetic** bertema **pink pas
   Tampilan pembuka berwarna pink pastel dengan gambar buku catatan lucu + pensil + teks "Hallo Welcome To Simple Notes" yang menggemaskan
 
 - **Loading Screen**  
-  Animasi loading lurus (oval) dengan karakter buku catatan kawaii yang sedang menulis + teks "Loading..." — durasi singkat tapi bikin gemes
+  Animasi loading lurus (oval) dengan karakter buku catatan lucu yang sedang menulis + teks "Loading..." — dengan durasi singkat tapi bikin gemes
 
 - **Halaman Utama**  
   - Toolbar teal pastel dengan judul "Simple Notes" (hitam bold)
