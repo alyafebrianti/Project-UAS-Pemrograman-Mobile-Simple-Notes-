@@ -66,3 +66,4 @@ simple-notes/
 ├── screenshots/               # folder untuk gambar demo
 └── README.md
 ```
+
